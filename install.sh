@@ -16,7 +16,6 @@ create_symlink() {
 
 # List of files/directories to link
 declare -A links=(
-    ["$HOME/dotfiles/.config/nvim"]="$HOME/.config/nvim"
     ["$HOME/dotfiles/.config/zsh"]="$HOME/.config/zsh"
     ["$HOME/dotfiles/.config/alias"]="$HOME/.config/alias"
     ["$HOME/dotfiles/.config/profile"]="$HOME/.config/profile"

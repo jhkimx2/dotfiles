@@ -1,2 +1,3 @@
-export PATH="/opt/nvim-linux-x86_64/bin:$PATH"
 export PATH="/home/jhkim/.local/bin:$PATH"
+export EDITOR="vi"
+export VISUAL="vi"
