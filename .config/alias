@@ -1,3 +1,4 @@
 alias tl="tmux list-sessions"
 alias ta='tmux attach-session -t'
 alias ts='tmux new-session -s'
+alias claude-cyfi='CLAUDE_CONFIG_DIR=~/.claude-cyfi claude'
